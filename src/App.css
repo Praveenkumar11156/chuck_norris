@@ -1,0 +1,21 @@
+.category {
+  margin-bottom: 20px;
+}
+
+.category h2 {
+  display: flex;
+  align-items: center;
+}
+
+.category button { 
+  margin-left: 10px;
+}
+
+.joke-list {
+  list-style-type: disc;
+  margin-left: 20px;
+}
+button{
+  color: blue;
+  background-color: black;
+}
